@@ -1,0 +1,3 @@
+This repository contains a reusable UI interaction skill. For a request matching stacked avatars/cards, selection-linked headings, contextual bottom panels, creating records from empty calendar dates, dock actions that enter editing directly, or synchronized image/title swiping, read `skills/ui-interaction-patterns/SKILL.md` and the applicable sections of `references/six-patterns.md`.
+
+Use only patterns that solve the current product problem, follow the target project's framework and business rules, and verify keyboard/touch behavior and reduced motion. Explain the chosen skill and purpose briefly in Chinese. Ordinary questions, backend work, reverse engineering and unrelated UI changes should not trigger these patterns.

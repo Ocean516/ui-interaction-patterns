@@ -1,0 +1,6 @@
+interface:
+  display_name: "界面交互技巧"
+  short_description: "按需实现六种界面交互，适配现有产品并检查键盘、触屏与动态效果"
+  default_prompt: "请使用 $ui-interaction-patterns，根据我的产品需求选择合适的界面交互并实现和检查。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,16 @@
+{
+  "name": "ui-interaction-patterns",
+  "version": "0.1.0",
+  "description": "根据自然语言需求，按需实现六种界面交互技巧。",
+  "author": { "name": "Ocean516" },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "界面交互技巧",
+    "shortDescription": "六种可复用的界面交互，支持按需自动选择。",
+    "longDescription": "覆盖堆叠预览、选项联动、底部面板、日历快捷新建、底栏直接编辑和同步滑动。沿用项目技术栈并检查实际操作与可访问性。",
+    "developerName": "Ocean516",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "根据我的界面需求选择合适的交互技巧并实现和检查。"
+  }
+}
